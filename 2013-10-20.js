@@ -53,7 +53,6 @@ assert.equal(1,sub(1,0));
 assert.equal(2,sub(1,-1));
 assert.equal(-1,sub(0,1));
 assert.equal(0,sub(0,0));
-
 assert.equal(0,multi(0,1));
 
 
