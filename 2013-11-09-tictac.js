@@ -64,7 +64,17 @@ function checkSpace() {
 
 
 function yourChoice(chName) {
-
+  // I thinking that this function involves count down the varChoice using varChoice-- each time a space is selectec
+  // Once VarChoice is 0, the game is over and the results Tallied.  What do you all think?
+   if Onclick var a !0 var choice--;
+  if Onclick var b !0 var choice--;
+  if Onclick var c !0 var choice--;
+  if Onclick var d !0 var choice--;
+  if Onclick var e !0 var choice--;
+  if Onclick var f !0 var choice--;
+  if Onclick var g !0 var choice--;
+  if Onclick var h !0 var choice--;
+  if Onclick var i !0 var choice--;
 
 }
 
