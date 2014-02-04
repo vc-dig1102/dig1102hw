@@ -102,5 +102,8 @@ function playAgain() {
 
 
 function reset() {
-
+  // I am think that we can call the ClearOut() Function to run and this will reset board after games ends.
+  //what do you all think?
+  
+        clearOut();
 }
